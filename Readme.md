@@ -27,4 +27,12 @@
 - Inference_1, is used for inference and for beam search -> Only works with CUDA though.
 - Same with Progression.json
 
+- A Few Raw outputs, were chosen from progression.txt
+- Afterwards, they were converted to valid jsons, into chosen_final.json
+- chosen_final.json were plugged into the vegalite editor and the graphs obtained are plotted below (along with progression.json)
+
+![Graph - 1]('./graph1.png)
+![Graph - 2]('./graph2.png)
+![Graph - 3]('./graph3.png)
+
 ### Everything is working quite well. 

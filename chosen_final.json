@@ -1,0 +1,58 @@
+[
+    {
+        "encoding": {
+            "x": {
+                "field": "Time",
+                "type": "ordinal"
+            },
+            "y": {
+                "field": "Time",
+                "type": "ordinal"
+            },
+            "detail": {
+                "aggregate": "count",
+                "type": "quantitative"
+            }
+        },
+        "mark": "bar"
+    },
+    {
+        "encoding": {
+            "x": {
+                "field": "Time",
+                "type": "temporal",
+                "timeUnit": "year"
+            },
+            "y": {
+                "field": "year",
+                "type": "quantitative"
+            },
+            "color": {
+                "field": "*",
+                "aggregate": "count",
+                "type": "quantitative"
+            }
+        },
+        "mark": "bar"
+    },
+    {
+        "encoding": {
+            "x": {
+                "field": "Time",
+                "type": "ordinal",
+                "primitiveType": "integer",
+                "selected": true
+            },
+            "y": {
+                "field": "Time",
+                "type": "ordinal",
+                "bin": true
+            },
+            "detail": {
+                "aggregate": "count",
+                "type": "quantitative"
+            }
+        },
+        "mark": "bar"
+    }
+]

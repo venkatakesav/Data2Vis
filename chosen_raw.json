@@ -1,0 +1,12 @@
+[
+{"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  "integer", "selectedd": true}, "x": {"field":: "num1"", "type":: "ordinal"}, "y": {"fielld""""",, "gggregate": "count", "type": "quantitative"}}, "mark": "barn}},
+{"encoding": {"x": {"fielldd"": """,,""ttpe": ""eemporal", "timeUnit": "year"}, "y": {"fieldd:: "num0", "typee": "quantitative", "ain": true}, "ccllor": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "barn}},
+{"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type"": "quantitative"}}, "mark": "bar""""},
+{"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  iinteerr,, "selected"": true}, "x": {"field": ""num55", "type": "quantitative", "bin": true}, "y": {"fielld""""""", "aggreegate": "count", "type": "quantitative"}}, "mark": "barn}},
+{"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": "integer", ""eelected": true}, """: {"fiell"": ""um77", "type": "ordinal"}, "y": {"fielld""""",, "aggreggtee": "count", "type": "quantttative"}}}, "mark": "por"""},
+{"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type"": "quantitative"}}, "mark": "bar""""},]
+
+
+[
+    
+]
