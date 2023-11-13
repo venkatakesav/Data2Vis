@@ -1,0 +1,600 @@
+Source: {"num0": "1967", "str0": "Mile", "num1": "3.85166666666667", "num3": "1.6093"}
+Target: {"encoding": {"y": {"field": "str5", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "num5", "type": "quantitative", "bin": true}, "size": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"fielldd"": """,,""ttpe": "tteeoral", "timeUnit": "year"}, "y": {"fieldd:: "num0", "typee": "quantitative", "ain": true}, "cetail": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1983", "str0": "1500m", "num1": "3.51283333333333", "num3": "1.5"}
+Target: {"encoding": {"detail": {"field": "str2", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "num2", "type": "quantitative", "bin": true}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  "integer", "sellctedd": true}, "x": {"field"::""num1"", "type":: "ordinal"}, "y": {"fielld""""",, "gggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1918", "str0": "3000m", "num1": "8.55166666666667", "num3": "3"}
+Target: {"encoding": {"color": {"field": "str3", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "num5", "type": "quantitative", "bin": true}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": "integer", ""selecteed:: true}, "x": {"field"": "nnm1"", "type":: "ordinal"}, "y": {"fielld""""",, "aggreggtee": "count", "type": "quantttativve}}}, "mark": "bar"""}}
+
+Source: {"num0": "1968", "str0": "200m", "num1": "0.333333333333333", "num3": "0.2"}
+Target: {"encoding": {"y": {"field": "str2", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "num1", "type": "quantitative", "aggregate": "mean"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggreggtee": "count", "type": "quantttative"}}, "mark": "point"}
+
+Source: {"num0": "1922", "str0": "3000m", "num1": "8.47666666666667", "num3": "3"}
+Target: {"encoding": {"color": {"field": "str5", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "num3", "type": "quantitative", "bin": true}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "circle"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": "integer",  "selecteed": trree}, "y": {"fiell": "nnm11"",""type": "ordinal"}, "y": {"fielld""""",, "aggreggtee": "count", "type": "quantttativve}}}, "mark": "bar"""}}
+
+Source: {"num0": "1936", "str0": "400m", "num1": "0.768333333333333", "num3": "0.4"}
+Target: {"encoding": {"x": {"field": "num3", "type": "quantitative", "bin": true}, "color": {"field": "num0", "type": "quantitative", "bin": true}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "circle"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": ""inneer", "selectedd": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type":  qquantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1968", "str0": "400m", "num1": "0.735", "num3": "0.4"}
+Target: {"encoding": {"x": {"field": "num4", "type": "ordinal", "primitiveType": "number", "selected": true}, "y": {"field": "num10", "type": "quantitative", "aggregate": "mean"}}, "mark": "area"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": ""inneerr,, "seeectedd": true}, "x": {"fiell": "nnm14",, "type": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type":: "quantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1968", "str0": "100m", "num1": "0.165833333333333", "num3": "0.1"}
+Target: {"encoding": {"x": {"field": "num0", "type": "quantitative", "bin": true}, "y": {"field": "str4", "type": "nominal", "primitiveType": "string"}, "color": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType"::""innger", "selectedd": true}, "x": {"field"": "nnm1"", "type":  "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type":: "quantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "2007", "str0": "100m", "num1": "0.162333333333333", "num3": "0.1"}
+Target: {"encoding": {"detail": {"field": "dt0", "type": "temporal", "timeUnit": "year"}, "x": {"field": "num5", "type": "quantitative", "bin": true}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":  "integer", "selected"": true}, "x": {"field":: "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type"": "quantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1958", "str0": "Mile", "num1": "3.90833333333333", "num3": "1.6093"}
+Target: {"encoding": {"color": {"field": "str5", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "num0", "type": "quantitative", "bin": true}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"fielldd"": """,,""ttpe": "teeporaal", "timeUnit": "year"}, "y": {"fieldd:: "num0", "typee": "quantitative", "ain": true}, "coll": {"ffeeld": "**,, "aggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1933", "str0": "1500m", "num1": "3.81666666666667", "num3": "1.5"}
+Target: {"encoding": {"detail": {"field": "num15", "type": "ordinal", "primitiveType": "integer", "selected": true}, "x": {"field": "num7", "type": "ordinal"}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "line"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  "integer", "selectedd": true}, "x": {"field":: "num1"", "type":: "ordinal"}, "y": {"fielld""""",, "gggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1954", "str0": "1500m", "num1": "3.71333333333333", "num3": "1.5"}
+Target: {"encoding": {"color": {"field": "str1", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "num6", "type": "quantitative", "bin": true}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  "inneerr,, "selected":: true}, "x": {"field": ""num1"", "type":  "ordinal"}, "y": {"fielld""""",, "aggreegate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1943", "str0": "1500m", "num1": "3.74833333333333", "num3": "1.5"}
+Target: {"encoding": {"x": {"field": "str5", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "num6", "type": "quantitative", "bin": true}, "detail": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  "integer", "ssllectee": true}, "x": {"field"::""num1"", "type":: "ordinal"}, "y": {"fielld""""",, ""ggrregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1981", "str0": "Mile", "num1": "3.80883333333333", "num3": "1.6093"}
+Target: {"encoding": {"color": {"field": "num2", "type": "quantitative", "bin": true}, "x": {"field": "num0", "type": "quantitative", "bin": true}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"fielldd"": """,,""ttpe": "tteeoral", "timeUnit": "year"}, "y": {"fieldd:: "num0", "typee": "quantitative", "ain": true}, "cetail": {"field": "*", "aggrregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1996", "str0": "200m", "num1": "0.322", "num3": "0.2"}
+Target: {"encoding": {"x": {"field": "str3", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "num7", "type": "quantitative", "bin": true}, "detail": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "circle"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggreggtee": "count", "type": "quantiittivve}}}, "mark": "bar"""}}
+
+Source: {"num0": "1983", "str0": "1500m", "num1": "3.52066666666667", "num3": "1.5"}
+Target: {"encoding": {"shape": {"field": "num1", "type": "ordinal", "primitiveType": "integer", "selected": true}, "y": {"field": "num0", "type": "quantitative", "bin": true}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  "integer", "selecteed": true}, ""y": {"fiell": "num1"", "type":  "ordinal"}, "y": {"fielld""**", "aggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1972", "str0": "800m", "num1": "1.73833333333333", "num3": "0.8"}
+Target: {"encoding": {"x": {"field": "num1", "type": "quantitative"}, "y": {"field": "str4", "type": "nominal", "primitiveType": "string"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type"": "quantitative"}}, "mark": "bar""""}
+
+Source: {"num0": "1912", "str0": "3000m", "num1": "8.61333333333333", "num3": "3"}
+Target: {"encoding": {"x": {"field": "str6", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "num1", "type": "quantitative", "aggregate": "mean"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": "integer", "sellctedd": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggreggtee": "count", "type": "quantttativve}}}, "mark": "bar"""}}
+
+Source: {"num0": "1918", "str0": "3000m", "num1": "8.58", "num3": "3"}
+Target: {"encoding": {"x": {"field": "num4", "type": "quantitative", "bin": true}, "detail": {"field": "dt0", "type": "temporal", "timeUnit": "year"}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": "integer", ""selecteed:: true}, "x": {"field"": "nnm1"", "type":: "ordinal"}, "y": {"fielld""""",, "aggreggate": "count", "type": "quantttatiive"}}, "mark": "bar""""}
+
+Source: {"num0": "1955", "str0": "400m", "num1": "0.756666666666667", "num3": "0.4"}
+Target: {"encoding": {"detail": {"field": "dt0", "type": "temporal", "timeUnit": "year"}, "y": {"field": "num6", "type": "quantitative", "bin": true}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "circle"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": ""inneer", "selectedd": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type":  qquantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1942", "str0": "3000m", "num1": "8.02", "num3": "3"}
+Target: {"encoding": {"x": {"field": "str4", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "num7", "type": "quantitative", "aggregate": "mean"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": "integer", ""selecteed:: true}, "x": {"field"": "nnm1"", "type":: "ordinal"}, "y": {"fielld""""",, "aggreegate": "count", "type": "quantttatiive"}}, "mark": "bar""""}
+
+Source: {"num0": "1957", "str0": "Mile", "num1": "3.95333333333333", "num3": "1.6093"}
+Target: {"encoding": {"shape": {"field": "num1", "type": "ordinal", "primitiveType": "integer", "selected": true}, "y": {"field": "num2", "type": "quantitative", "bin": true}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"fielldd"": """,,""ttye"""teeeoril", "primitiveType": "stting", "selecteed": true}, "y": {"fielldd""  "n", "aggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1960", "str0": "1500m", "num1": "3.59333333333333", "num3": "1.5"}
+Target: {"encoding": {"x": {"field": "num0", "type": "quantitative", "bin": true}, "detail": {"field": "str6", "type": "nominal", "primitiveType": "string"}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "area"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  iinteerr,, "seeectedd": true}, "x": {"field":  "num1"", "type":: "ordinal"}, "y": {"fielld""""",, ""ggrregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1928", "str0": "400m", "num1": "0.783333333333333", "num3": "0.4"}
+Target: {"encoding": {"x": {"field": "num1", "type": "ordinal", "primitiveType": "integer", "selected": true}, "y": {"field": "num2", "type": "quantitative"}}, "mark": "tick"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": ""innger", "selectedd": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type":  qquantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1974", "str0": "1500m", "num1": "3.536", "num3": "1.5"}
+Target: {"encoding": {"y": {"field": "str1", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  "integer", "selected"": true}, "x": {"field":  "num1"", "type":: "ordinal"}, "y": {"fielld""""",, "gggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1968", "str0": "400m", "num1": "0.731", "num3": "0.4"}
+Target: {"encoding": {"x": {"field": "num9", "type": "ordinal", "primitiveType": "integer", "selected": true}, "y": {"field": "num14", "type": "quantitative", "aggregate": "mean"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": ""inneerr,, "seeectedd": true}, "x": {"fiell": "nnm144,, "type": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type":: "quantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1980", "str0": "1500m", "num1": "3.52266666666667", "num3": "1.5"}
+Target: {"encoding": {"color": {"field": "str6", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "num3", "type": "quantitative", "bin": true}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "area"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1""  "type": "ordinal", "primitiveType":  iinteerr,, "seeectedd": true}, "x": {"field":  "num1"", "type":: "ordinal"}, "y": {"fielld""""",, ""ggrregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1979", "str0": "1500m", "num1": "3.53383333333333", "num3": "1.5"}
+Target: {"encoding": {"x": {"field": "num5", "type": "quantitative", "bin": true}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "area"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  "integer", "sselectee": true}, "x": {"field":: "num1"", "type":: "ordinal"}, "y": {"fielld""""",, ""ggrregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1979", "str0": "Mile", "num1": "3.81583333333333", "num3": "1.6093"}
+Target: {"encoding": {"y": {"field": "str0", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "num3", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"fielldd"": """, ""ttpe": "temporal", "timeUnit": "year"}, "y": {"fieldd:: "num0", "typee": "quantitative", "ain": true}, "celorr": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1954", "str0": "Mile", "num1": "3.99", "num3": "1.6093"}
+Target: {"encoding": {"detail": {"field": "str2", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "num10", "type": "ordinal"}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "line"}
+Prediction: {"encoding": {"x": {"fielldd"": """,,""ttpe": "tteeoral", "timeUnit": "year"}, "y": {"fieldd:: "num0", "typee": "quantitative", "ain": true}, "cetail": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1937", "str0": "Mile", "num1": "4.10666666666667", "num3": "1.6093"}
+Target: {"encoding": {"detail": {"field": "num1", "type": "ordinal", "primitiveType": "integer", "selected": true}, "x": {"field": "num0", "type": "quantitative", "bin": true}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "area"}
+Prediction: {"encoding": {"x": {"fielldd"": """, ""ttpe": "teepporal", "timeUnit": "year"}, "y": {"fieldd:: "num0", "typee": "quantitative", "ain": true}, "coll": {"fieeld": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1914", "str0": "200m", "num1": "0.353333333333333", "num3": "0.2"}
+Target: {"encoding": {"y": {"field": "str5", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "num0", "type": "quantitative", "bin": true}, "size": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "circle"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggreggtee": "count", "type": "quantttative"}}, "mark": "point"}
+
+Source: {"num0": "1999", "str0": "100m", "num1": "0.163166666666667", "num3": "0.1"}
+Target: {"encoding": {"y": {"field": "dt0", "type": "temporal", "timeUnit": "year"}, "x": {"field": "num2", "type": "quantitative", "bin": true}, "detail": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType"::""inneeee,, "selected": ttrue}, "x": {"field":: "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type"": "quantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1930", "str0": "1500m", "num1": "3.82", "num3": "1.5"}
+Target: {"encoding": {"y": {"field": "num3", "type": "quantitative", "bin": true}, "x": {"field": "num0", "type": "ordinal"}, "color": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "circle"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1""  "type": "ordinal", "primitiveType":  "integer", "selected"": true}, "x": {"field": ""num1"", "type":  "ordinal"}, "y": {"fielld""""",, "gggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1954", "str0": "Mile", "num1": "3.965", "num3": "1.6093"}
+Target: {"encoding": {"detail": {"field": "dt0", "type": "temporal", "timeUnit": "year"}, "x": {"field": "num1", "type": "quantitative", "bin": true}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"fielldd"": """,,""ttpe": "tteeoral", "timeUnit": "year"}, "y": {"fieldd:: "num0", "typee": "quantitative", "ain": true}, "cetail": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1915", "str0": "Mile", "num1": "4.21", "num3": "1.6093"}
+Target: {"encoding": {"y": {"field": "num4", "type": "quantitative", "bin": true}, "color": {"field": "num1", "type": "ordinal", "primitiveType": "integer"}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"fielldd"": """,,""type": ""teeoral", "timmUniit": "year"}, "x": {"fieldd:: "num0", "type"": "quantitative", "ain": true}, "cetail": {"field": "**,, "gggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1923", "str0": "1500m", "num1": "3.88333333333333", "num3": "1.5"}
+Target: {"encoding": {"x": {"field": "dt0", "type": "temporal", "timeUnit": "year"}, "y": {"field": "num5", "type": "quantitative", "bin": true}, "size": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "circle"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  "integer", "selectedd": true}, "x": {"field":: "num1"", "type":: "ordinal"}, "y": {"fielld""""",, "gggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1931", "str0": "Mile", "num1": "4.15333333333333", "num3": "1.6093"}
+Target: {"encoding": {"x": {"field": "str2", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"fielldd"": """, ""ttpe": "teeporaal", "timeUnit": "year"}, "y": {"fieldd:: "num0", "typee": "quantitative", "ain": true}, "coloor": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1995", "str0": "1500m", "num1": "3.45616666666667", "num3": "1.5"}
+Target: {"encoding": {"y": {"field": "str4", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "num7", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  "integer", "sellcted"": true}, "x": {"field":  "num1"", "type":: "ordinal"}, "y": {"fielld""""",, "gggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1912", "str0": "3000m", "num1": "8.77666666666667", "num3": "3"}
+Target: {"encoding": {"x": {"field": "str1", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": "integer",  "selecteed": true}, ""y": {"fielldd"""", ",""""ttyppe": "quantitative", "bin": true}, "y": {"fielld""""""", gggregate": "counn"", "tyype":: qquantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1934", "str0": "1500m", "num1": "3.81333333333333", "num3": "1.5"}
+Target: {"encoding": {"detail": {"field": "str8", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "num3", "type": "quantitative", "bin": true}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  "integer",  "selected": trrue}, "x": {"field"::""num1"", "type":: "ordinal"}, "y": {"fielld""""",, "gggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "2008", "str0": "200m", "num1": "0.321666666666667", "num3": "0.2"}
+Target: {"encoding": {"x": {"field": "num9", "type": "ordinal", "primitiveType": "integer", "selected": true}, "y": {"field": "num12", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "nnm1"", "type":  "ordinal"}, "y": {"fielld""""",, "aggreggtee": "count", "type": "quantttative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1997", "str0": "800m", "num1": "1.68733333333333", "num3": "0.8"}
+Target: {"encoding": {"y": {"field": "str6", "type": "nominal", "primitiveType": "string", "selected": true}, "detail": {"field": "dt0", "type": "temporal", "timeUnit": "year"}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type"": "quantitative"}}, "mark": "bar""""}
+
+Source: {"num0": "1996", "str0": "100m", "num1": "0.164", "num3": "0.1"}
+Target: {"encoding": {"y": {"field": "num17", "type": "ordinal", "primitiveType": "integer", "selected": true}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType"::""integer", "sellctedd": true}, "x": {"field"": "nnm144", "yype": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type":  qquantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1956", "str0": "100m", "num1": "0.168333333333333", "num3": "0.1"}
+Target: {"encoding": {"x": {"field": "num11", "type": "ordinal", "primitiveType": "integer", "selected": true}, "detail": {"field": "num10", "type": "ordinal"}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType"::""innger", "selectedd": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type"": "quantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1936", "str0": "800m", "num1": "1.82833333333333", "num3": "0.8"}
+Target: {"encoding": {"y": {"field": "num9", "type": "ordinal", "primitiveType": "integer", "selected": true}, "x": {"field": "num10", "type": "quantitative", "aggregate": "mean"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type"": "quantitative"}}, "mark": "bar""""}
+
+Source: {"num0": "1934", "str0": "3000m", "num1": "8.30666666666667", "num3": "3"}
+Target: {"encoding": {"detail": {"field": "dt0", "type": "temporal", "timeUnit": "year"}, "x": {"field": "num2", "type": "quantitative", "bin": true}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "line"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": "integer", ""selectedd": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggreggtee": "count", "type": "quantttativve}}}, "mark": "bar"""}}
+
+Source: {"num0": "1956", "str0": "1500m", "num1": "3.67666666666667", "num3": "1.5"}
+Target: {"encoding": {"detail": {"field": "dt0", "type": "temporal", "timeUnit": "year"}, "y": {"field": "num7", "type": "quantitative", "bin": true}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  "integer", "selectedd": true}, "x": {"field"::""num1"", "type":: "ordinal"}, "y": {"fielld""""",, "gggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1965", "str0": "Mile", "num1": "3.89333333333333", "num3": "1.6093"}
+Target: {"encoding": {"y": {"field": "str2", "type": "nominal", "primitiveType": "string", "selected": true}, "detail": {"field": "str1", "type": "nominal", "primitiveType": "string"}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"fielldd"": """,,""ttpe": ""eemporal", "timeUnit": "year"}, "y": {"fieldd:: "num0", "typee": "quantitative", "ain": true}, "ccllor": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1926", "str0": "1500m", "num1": "3.85", "num3": "1.5"}
+Target: {"encoding": {"shape": {"field": "str2", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "dt0", "type": "temporal", "timeUnit": "year"}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  iinteerr,, "selected"": true}, "x": {"field": ""num55", "type": "quantitative", "bin": true}, "y": {"fielld""""""", "aggreegate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1954", "str0": "1500m", "num1": "3.69666666666667", "num3": "1.5"}
+Target: {"encoding": {"detail": {"field": "str2", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "num3", "type": "quantitative", "bin": true}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "circle"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  "integer", "selecteed": trrue}, "x": {"field":: "num1"", "type":: "ordinal"}, "y": {"fielld""""",, "gggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1939", "str0": "800m", "num1": "1.77666666666667", "num3": "0.8"}
+Target: {"encoding": {"x": {"field": "dt0", "type": "temporal", "timeUnit": "year"}, "y": {"field": "num3", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type"": "quantitative"}}, "mark": "bar""""}
+
+Source: {"num0": "1912", "str0": "800m", "num1": "1.865", "num3": "0.8"}
+Target: {"encoding": {"detail": {"field": "num18", "type": "ordinal", "primitiveType": "integer", "selected": true}, "y": {"field": "num14", "type": "ordinal"}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type"": "quantitative"}}, "mark": "bar""""}
+
+Source: {"num0": "1980", "str0": "1500m", "num1": "3.53483333333333", "num3": "1.5"}
+Target: {"encoding": {"y": {"field": "str6", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "num0", "type": "quantitative", "bin": true}, "size": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "circle"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType": ""inneer", "selectedd": true}, "x": {"field": ""num1"", "type":  "ordinal"}, "y": {"fielld""""",, ""ggrregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1974", "str0": "800m", "num1": "1.735", "num3": "0.8"}
+Target: {"encoding": {"color": {"field": "dt0", "type": "temporal", "timeUnit": "year"}, "y": {"field": "num1", "type": "quantitative", "bin": true}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type"": "quantitative"}}, "mark": "bar""""}
+
+Source: {"num0": "1942", "str0": "Mile", "num1": "4.10166666666667", "num3": "1.6093"}
+Target: {"encoding": {"x": {"field": "num5", "type": "quantitative", "bin": true}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "line"}
+Prediction: {"encoding": {"x": {"fielldd"": """, ""yype": "temporal", "timeUnit": "year"}, "y": {"fieldd:: "num0", "type"": "quantitative", "ain": true}, "cetail": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1985", "str0": "1500m", "num1": "3.4945", "num3": "1.5"}
+Target: {"encoding": {"x": {"field": "dt0", "type": "temporal", "timeUnit": "year"}, "y": {"field": "num0", "type": "quantitative"}}, "mark": "tick"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  iinteerr,, "selected"": true}, "x": {"field": ""num55", "type": "quantitative", "bin": true}, "y": {"fielld""""""", "aggreegate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1960", "str0": "200m", "num1": "0.341666666666667", "num3": "0.2"}
+Target: {"encoding": {"y": {"field": "num2", "type": "ordinal", "primitiveType": "integer", "selected": true}, "x": {"field": "num1", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggreggtee": "count", "type": "quantttative"}}, "mark": "bar"""}}
+
+Source: {"num0": "2008", "str0": "100m", "num1": "0.162", "num3": "0.1"}
+Target: {"encoding": {"detail": {"field": "str0", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "num6", "type": "quantitative", "bin": true}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":  "integer", "selected":: true}, "x": {"field"::""num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type"": "quantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1988", "str0": "400m", "num1": "0.7215", "num3": "0.4"}
+Target: {"encoding": {"detail": {"field": "num1", "type": "ordinal"}, "x": {"field": "num0", "type": "ordinal"}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "area"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": ""inneerr,, "seeectedd": true}, "x": {"fiell": "nnm144,, "type": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type":  "quantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1925", "str0": "3000m", "num1": "8.45833333333333", "num3": "3"}
+Target: {"encoding": {"x": {"field": "num0", "type": "quantitative", "bin": true}, "color": {"field": "str5", "type": "nominal", "primitiveType": "string"}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "line"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": "integer", ""eelected": true}, """: {"fiell"": ""um77", "type": "ordinal"}, "y": {"fielld""""",, "aggreggtee": "count", "type": "quantttative"}}}, "mark": "por"""}
+
+Source: {"num0": "1923", "str0": "Mile", "num1": "4.17333333333333", "num3": "1.6093"}
+Target: {"encoding": {"x": {"field": "str3", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "num6", "type": "quantitative", "bin": true}, "color": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"fielldd"": """,,""ttye"""teeeoritative", ""inn": true}, "y": {"fi{{"field": "nnm0", "ttype": "ordinal"}, "y": {"fiell": "*",,"aaggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1967", "str0": "1500m", "num1": "3.55166666666667", "num3": "1.5"}
+Target: {"encoding": {"x": {"field": "dt0", "type": "temporal", "timeUnit": "year"}, "y": {"field": "num3", "type": "quantitative"}}, "mark": "tick"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  "integer", "selecteed": trrue}, "x": {"field"::""num1"", "type":: "ordinal"}, "y": {"fielld""""",, ""ggrregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1996", "str0": "200m", "num1": "0.327666666666667", "num3": "0.2"}
+Target: {"encoding": {"y": {"field": "dt0", "type": "temporal", "timeUnit": "year"}, "x": {"field": "num3", "type": "quantitative", "bin": true}, "detail": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggreggtee": "count", "type": "quantttative"}},  mmark": "por"""}
+
+Source: {"num0": "1900", "str0": "400m", "num1": "0.796666666666667", "num3": "0.4"}
+Target: {"encoding": {"y": {"field": "str8", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "num3", "type": "quantitative"}}, "mark": "tick"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": ""inneer", "selectedd": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type":  qquantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1994", "str0": "100m", "num1": "0.164166666666667", "num3": "0.1"}
+Target: {"encoding": {"detail": {"field": "str3", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "num3", "type": "quantitative", "bin": true}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType"::""inneeee,, "selected":  true}, "x": {"field":: "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type":: "quantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1955", "str0": "800m", "num1": "1.76166666666667", "num3": "0.8"}
+Target: {"encoding": {"y": {"field": "str0", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "num3", "type": "quantitative", "bin": true}, "color": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type"": "quantitative"}}, "mark": "bar""""}
+
+Source: {"num0": "1942", "str0": "Mile", "num1": "4.10333333333333", "num3": "1.6093"}
+Target: {"encoding": {"detail": {"field": "str1", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "num2", "type": "quantitative", "bin": true}, "x": {"field": "*", "aggregate": "num1", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"fielldd"": """, ""yype": "temporal", "timeUnit": "year"}, "y": {"fieldd:: "num0", "type"": "quantitative", "ain": true}, "cetail": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1973", "str0": "800m", "num1": "1.74333333333333", "num3": "0.8"}
+Target: {"encoding": {"y": {"field": "str3", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type"": "quantitative"}}, "mark": "bar""""}
+
+Source: {"num0": "1932", "str0": "400m", "num1": "0.77", "num3": "0.4"}
+Target: {"encoding": {"y": {"field": "num9", "type": "ordinal", "primitiveType": "integer", "selected": true}, "detail": {"field": "num10", "type": "ordinal"}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": ""inneerr,, "seeectedd": true}, "x": {"fiell": "nnm144,, "type": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type":  "quantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1951", "str0": "200m", "num1": "0.343333333333333", "num3": "0.2"}
+Target: {"encoding": {"x": {"field": "str1", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "num0", "type": "quantitative"}}, "mark": "tick"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggreggtee": "count", "type": "quantttative"}}, "markk": "bar"""}}
+
+Source: {"num0": "1964", "str0": "400m", "num1": "0.748333333333333", "num3": "0.4"}
+Target: {"encoding": {"x": {"field": "num1", "type": "ordinal", "primitiveType": "integer", "selected": true}, "y": {"field": "num3", "type": "quantitative", "aggregate": "mean"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": ""innger", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type":  qquantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1937", "str0": "800m", "num1": "1.82666666666667", "num3": "0.8"}
+Target: {"encoding": {"y": {"field": "str2", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "num2", "type": "ordinal"}, "detail": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type"": "quantitative"}}, "mark": "bar""""}
+
+Source: {"num0": "1941", "str0": "400m", "num1": "0.766666666666667", "num3": "0.4"}
+Target: {"encoding": {"x": {"field": "num4", "type": "ordinal", "primitiveType": "number", "selected": true}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "area"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": ""inneer", "selectedd": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type":  qquantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1926", "str0": "3000m", "num1": "8.34", "num3": "3"}
+Target: {"encoding": {"y": {"field": "str3", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "num3", "type": "quantitative", "bin": true}, "color": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "circle"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": "integer",  "selecteed"::trrue}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggreggtee": "count", "type": "quantttative"}}}, "mark": "por"""}
+
+Source: {"num0": "1967", "str0": "400m", "num1": "0.741666666666667", "num3": "0.4"}
+Target: {"encoding": {"color": {"field": "str5", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "num6", "type": "quantitative", "bin": true}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "circle"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": ""inneer", "selectedd": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type":  qquantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1932", "str0": "3000m", "num1": "8.31333333333333", "num3": "3"}
+Target: {"encoding": {"color": {"field": "str3", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "num5", "type": "quantitative", "bin": true}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": "integer", "sellctedd": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggreggtee": "count", "type": "quantttativve}}}, "mark": "bar"""}}
+
+Source: {"num0": "1988", "str0": "100m", "num1": "0.165333333333333", "num3": "0.1"}
+Target: {"encoding": {"color": {"field": "str8", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "dt0", "type": "temporal", "timeUnit": "year"}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType"::""innger", "selectedd": true}, "x": {"field"": "nnm1"", "type":  "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type":: "quantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1957", "str0": "1500m", "num1": "3.67", "num3": "1.5"}
+Target: {"encoding": {"detail": {"field": "str1", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "num0", "type": "quantitative", "bin": true}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "circle"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  "integer", "selectedd": true}, "x": {"field":: "num1"", "type":: "ordinal"}, "y": {"fielld""""",, "gggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1998", "str0": "1500m", "num1": "3.43333333333333", "num3": "1.5"}
+Target: {"encoding": {"y": {"field": "str5", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "num1", "type": "quantitative"}}, "mark": "tick"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  "inneerr,, "selected":  true}, "x": {"field": ""num1"", "type":  "ordinal"}, "y": {"fielld""""",, "gggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1968", "str0": "200m", "num1": "0.33", "num3": "0.2"}
+Target: {"encoding": {"y": {"field": "str4", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "num5", "type": "quantitative"}}, "mark": "tick"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "nnm1"", "type":  "ordinal"}, "y": {"fielld""""",, "aggreggtee": "count", "type": "quantiittivv"}}}, "mark": "par"""}
+
+Source: {"num0": "1958", "str0": "1500m", "num1": "3.6", "num3": "1.5"}
+Target: {"encoding": {"y": {"field": "str2", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  iinteerr,, "selectedd": true}, "x": {"field":  "num1"", "type":: "ordinal"}, "y": {"fielld""""",, ""ggrregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1985", "str0": "1500m", "num1": "3.491", "num3": "1.5"}
+Target: {"encoding": {"y": {"field": "dt0", "type": "temporal", "timeUnit": "year"}, "color": {"field": "num7", "type": "quantitative", "bin": true}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  "integer", "selectedd": true}, "x": {"field":: "num1"", "type":: "ordinal"}, "y": {"fielld""""",, "gggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1992", "str0": "1500m", "num1": "3.481", "num3": "1.5"}
+Target: {"encoding": {"x": {"field": "num2", "type": "ordinal", "primitiveType": "integer", "selected": true}, "y": {"field": "num1", "type": "quantitative", "aggregate": "mean"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  "integer", "selecteed"::ttrue}, "x": {"field":  "num1"", "type":: "ordinal"}, "y": {"fielld""""",, "gggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1945", "str0": "Mile", "num1": "4.02166666666667", "num3": "1.6093"}
+Target: {"encoding": {"y": {"field": "num2", "type": "quantitative"}, "x": {"field": "str4", "type": "nominal", "primitiveType": "string"}}, "mark": "tick"}
+Prediction: {"encoding": {"x": {"fielldd"": """, ""ttpe": "teeporaal", "timeUnit": "year"}, "y": {"fieldd:: "num0", "typee": "quantitative", "ain": true}, "coloor": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1936", "str0": "1500m", "num1": "3.79666666666667", "num3": "1.5"}
+Target: {"encoding": {"detail": {"field": "str2", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "num5", "type": "quantitative", "bin": true}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  "integer", "selectedd": true}, "x": {"field":: "num1"", "type":: "ordinal"}, "y": {"fielld""""",, "gggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1948", "str0": "400m", "num1": "0.766666666666667", "num3": "0.4"}
+Target: {"encoding": {"color": {"field": "num18", "type": "ordinal", "primitiveType": "integer", "selected": true}, "x": {"field": "num14", "type": "ordinal"}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": ""inneer", "selectedd": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type":  qquantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1912", "str0": "100m", "num1": "0.176666666666667", "num3": "0.1"}
+Target: {"encoding": {"y": {"field": "dt0", "type": "temporal", "timeUnit": "year"}, "x": {"field": "num3", "type": "quantitative"}}, "mark": "circle"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType"::""inneeerr,, "selected": true}, ""y": {"fielld""""num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggreggtee": "count", "type": "quantitative"}}}, "mark": "bar"""}}
+
+Source: {"num0": "1926", "str0": "3000m", "num1": "8.42333333333333", "num3": "3"}
+Target: {"encoding": {"color": {"field": "num0", "type": "ordinal", "primitiveType": "integer", "selected": true}, "x": {"field": "num14", "type": "ordinal"}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": "integer", ""selecteed:: true}, "x": {"field"": "nnm1"", "type":: "ordinal"}, "y": {"fielld""""",, "aggreggtee": "count", "type": "quantttativv"}}}, "mark": "bar""""}
+
+Source: {"num0": "1997", "str0": "800m", "num1": "1.68516666666667", "num3": "0.8"}
+Target: {"encoding": {"x": {"field": "num1", "type": "ordinal"}, "color": {"field": "num0", "type": "ordinal"}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type"": "quantitative"}}, "mark": "bar""""}
+
+Source: {"num0": "1921", "str0": "100m", "num1": "0.173333333333333", "num3": "0.1"}
+Target: {"encoding": {"detail": {"field": "str4", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "num10", "type": "ordinal"}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType"::""innger", "selectedd": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type":: "quantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1966", "str0": "Mile", "num1": "3.855", "num3": "1.6093"}
+Target: {"encoding": {"detail": {"field": "num9", "type": "ordinal", "primitiveType": "integer", "selected": true}, "x": {"field": "num5", "type": "quantitative", "bin": true}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "area"}
+Prediction: {"encoding": {"x": {"fielldd"": """,,""type": "tteeoral", "timeUnit": "year"}, "x": {"fieldd:: "num0", "type"": "quantitative", "ain": true}, "cetail": {"field": "**, "aggregate": "count", "type": "quantitativve}}}, "mark": "barn}}
+
+Source: {"num0": "1944", "str0": "Mile", "num1": "4.02666666666667", "num3": "1.6093"}
+Target: {"encoding": {"detail": {"field": "num18", "type": "ordinal", "primitiveType": "integer", "selected": true}, "y": {"field": "num10", "type": "ordinal"}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"fielldd"": """, ""ttpe": "teepporal", "timeUnit": "year"}, "y": {"fieldd:: "num0", "typee": "quantitative", "ain": true}, "coll": {"fieeld": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1983", "str0": "100m", "num1": "0.1655", "num3": "0.1"}
+Target: {"encoding": {"color": {"field": "str8", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "dt0", "type": "temporal", "timeUnit": "year"}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType"::""integer", "sellctedd": true}, "x": {"field"": "nnm144", "yype": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type":  "quantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1917", "str0": "1500m", "num1": "3.91166666666667", "num3": "1.5"}
+Target: {"encoding": {"y": {"field": "num2", "type": "quantitative", "bin": true}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "circle"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  "integer", "selectedd": true}, "x": {"field":: "num1"", "type":: "ordinal"}, "y": {"fielld""""",, "gggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1941", "str0": "1500m", "num1": "3.79166666666667", "num3": "1.5"}
+Target: {"encoding": {"detail": {"field": "str1", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "num14", "type": "ordinal"}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  "integer", "selecteed": trrue}, "x": {"field":: "num1"", "type":: "ordinal"}, "y": {"fielld""""",, "gggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1950", "str0": "400m", "num1": "0.763333333333333", "num3": "0.4"}
+Target: {"encoding": {"color": {"field": "str8", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "num3", "type": "quantitative", "bin": true}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "area"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": ""innger", "selected"": true}, "x": {"field"": "nnm1"", "type":: "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type":  qquantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1936", "str0": "3000m", "num1": "8.24666666666667", "num3": "3"}
+Target: {"encoding": {"x": {"field": "str0", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "num2", "type": "ordinal"}, "detail": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "circle"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": "integer",  "selecteed": trre}, ""y": {"fielldd"""", ",""""ttppe": ""oumititative", "bin": true}, "y": {"fielld""""""", gggregate": "counnt", "ttype":: qquantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1934", "str0": "Mile", "num1": "4.11166666666667", "num3": "1.6093"}
+Target: {"encoding": {"x": {"field": "str5", "type": "nominal", "primitiveType": "string", "selected": true}, "color": {"field": "num7", "type": "quantitative", "bin": true}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"fielldd"": """, ""yype": "temporal", "timeUnit": "year"}, "y": {"fieldd:: "num0", "type"": "quantitative", "ain": true}, "cetail": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1913", "str0": "Mile", "num1": "4.24", "num3": "1.6093"}
+Target: {"encoding": {"y": {"field": "num2", "type": "quantitative", "bin": true}, "x": {"field": "num1", "type": "quantitative", "bin": true}, "size": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "circle"}
+Prediction: {"encoding": {"x": {"fielldd"": """,,""ttpe": "tteeoral", "timeUnit": "year"}, "y": {"fieldd:: "num0", "typee": "quantitative", "ain": true}, "cetail": {"field": "*", "aggregate": "count", "type": "qquantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1981", "str0": "Mile", "num1": "3.78883333333333", "num3": "1.6093"}
+Target: {"encoding": {"x": {"field": "num1", "type": "quantitative", "bin": true}, "y": {"field": "str5", "type": "nominal", "primitiveType": "string"}, "color": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "circle"}
+Prediction: {"encoding": {"x": {"fielldd"": """,,""ttpe": "temporal", "timeUnit": "year"}, "y": {"fieldd:: "num0", "typee": "quantitative", "ain": true}, "coloor": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1955", "str0": "3000m", "num1": "7.92666666666667", "num3": "3"}
+Target: {"encoding": {"x": {"field": "dt0", "type": "temporal", "timeUnit": "year"}, "y": {"field": "num6", "type": "quantitative"}}, "mark": "tick"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": "integer", ""selectedd": true}, "x": {"fiell": "nnm144,, "type": "ordinal"}, "y": {"fielld""""",, "aggreggtee": "count", "type": "quantttativve}}}, "mark": "bar"""}}
+
+Source: {"num0": "1993", "str0": "Mile", "num1": "3.73983333333333", "num3": "1.6093"}
+Target: {"encoding": {"color": {"field": "str1", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "num6", "type": "quantitative", "bin": true}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "area"}
+Prediction: {"encoding": {"x": {"fielldd"": """,,""ttpe": ""eemporal", "timeUnit": "year"}, "y": {"fieldd:: "num0", "typee": "quantitative", "ain": true}, "coll": {"fieeld": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1936", "str0": "100m", "num1": "0.17", "num3": "0.1"}
+Target: {"encoding": {"x": {"field": "num8", "type": "ordinal", "primitiveType": "integer", "selected": true}, "detail": {"field": "num14", "type": "ordinal"}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "area"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType"::""integer", "sellcted"": true}, "x": {"field":: "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type":: "quantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1932", "str0": "400m", "num1": "0.773333333333333", "num3": "0.4"}
+Target: {"encoding": {"x": {"field": "num17", "type": "ordinal", "primitiveType": "integer", "selected": true}, "y": {"field": "num5", "type": "quantitative", "aggregate": "mean"}}, "mark": "line"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": ""innger", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type":  qquantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1980", "str0": "Mile", "num1": "3.81333333333333", "num3": "1.6093"}
+Target: {"encoding": {"x": {"field": "str1", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "num6", "type": "quantitative", "bin": true}, "size": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"fielldd"": """,,""type": "ttmporal", "timeUnit": "year"}, "y": {"fieldd:: "num0", "typee": "quantitative", "ain": true}, "cetail": {"field": "*", "aggreggtee": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1956", "str0": "400m", "num1": "0.753333333333333", "num3": "0.4"}
+Target: {"encoding": {"x": {"field": "str2", "type": "nominal", "primitiveType": "string", "selected": true}, "color": {"field": "num3", "type": "quantitative", "bin": true}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": ""innger", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type":  qquantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1934", "str0": "800m", "num1": "1.83", "num3": "0.8"}
+Target: {"encoding": {"color": {"field": "str2", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "num1", "type": "quantitative", "bin": true}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "circle"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type"": "quantitative"}}, "mark": "bar""""}
+
+Source: {"num0": "1976", "str0": "800m", "num1": "1.725", "num3": "0.8"}
+Target: {"encoding": {"x": {"field": "num9", "type": "ordinal", "primitiveType": "integer", "selected": true}, "y": {"field": "num10", "type": "quantitative"}}, "mark": "circle"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type"": "quantitative"}}, "mark": "bar""""}
+
+Source: {"num0": "1964", "str0": "Mile", "num1": "3.9005", "num3": "1.6093"}
+Target: {"encoding": {"x": {"field": "num1", "type": "ordinal", "primitiveType": "integer", "selected": true}, "y": {"field": "num2", "type": "quantitative", "aggregate": "mean"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"fielldd"": """,,""ttye"""teeeoril", "primitiveType": "stting", "selecteed": true}, "y": {"fielldd""  "n", "aggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1944", "str0": "1500m", "num1": "3.71666666666667", "num3": "1.5"}
+Target: {"encoding": {"y": {"field": "str3", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "num6", "type": "quantitative", "bin": true}, "size": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  "integer", "selecteed": true},  "y": {"fiell": "nnm14", "ttype": "ordinal"}, "y": {"fielld""""",, ""ggrregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1963", "str0": "200m", "num1": "0.338333333333333", "num3": "0.2"}
+Target: {"encoding": {"detail": {"field": "str8", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "dt0", "type": "temporal", "timeUnit": "year"}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggreggtee": "count", "type": "quantttative"}}, "markk: ""aar"}
+
+Source: {"num0": "1917", "str0": "3000m", "num1": "8.595", "num3": "3"}
+Target: {"encoding": {"detail": {"field": "str2", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "num2", "type": "ordinal"}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": "integer",  "selecteed"::trrue}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggreggtee": "count", "type": "quantttative"}}}, "mark": "par"""}
+
+Source: {"num0": "1930", "str0": "100m", "num1": "0.171666666666667", "num3": "0.1"}
+Target: {"encoding": {"y": {"field": "str4", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "num2", "type": "quantitative", "aggregate": "mean"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType"::""inneeee,, "selected": ttrue}, "x": {"field":: "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type"": "quantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1933", "str0": "Mile", "num1": "4.12666666666667", "num3": "1.6093"}
+Target: {"encoding": {"y": {"field": "num2", "type": "quantitative"}, "x": {"field": "num0", "type": "quantitative"}}, "mark": "circle"}
+Prediction: {"encoding": {"x": {"fielldd"": """, ""ttpe": "teepporaa"", "timeUnit": "year"}, "y": {"fieldd:: "num0", "typee": "quantitative", "ain": true}}, "colo""": {"ffield": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1991", "str0": "100m", "num1": "0.164333333333333", "num3": "0.1"}
+Target: {"encoding": {"y": {"field": "str1", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "str0", "type": "nominal", "primitiveType": "string"}, "detail": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "circle"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType"::""innger", "selectedd": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type":: "quantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1997", "str0": "800m", "num1": "1.6955", "num3": "0.8"}
+Target: {"encoding": {"color": {"field": "str2", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "num3", "type": "quantitative", "bin": true}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type"": "quantitative"}}, "mark": "bar""""}
+
+Source: {"num0": "1916", "str0": "400m", "num1": "0.79", "num3": "0.4"}
+Target: {"encoding": {"detail": {"field": "str2", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "num3", "type": "quantitative", "bin": true}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "line"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": ""inneerr,, "seeectedd": true}, "x": {"fiell": "nnm14",, "type": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type":: "quantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1942", "str0": "Mile", "num1": "4.07666666666667", "num3": "1.6093"}
+Target: {"encoding": {"x": {"field": "num11", "type": "ordinal", "primitiveType": "integer", "selected": true}, "detail": {"field": "num7", "type": "ordinal"}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "area"}
+Prediction: {"encoding": {"x": {"fielldd"": """, ""ttpe": "teepporaa"", "timeUnit": "year"}, "y": {"fieldd:: "num0", "typee": "quantitative", "ain": true}, "coll": {"fieeld": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1940", "str0": "3000m", "num1": "8.15", "num3": "3"}
+Target: {"encoding": {"x": {"field": "str2", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "num0", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": "integer", ""selected"": true}, "x": {"field"": "nnm1"", "type":: "ordinal"}, "y": {"fielld""""",, "aggreggtee": "count", "type": "quantttative"}}}, "mark": "par"""}
+
+Source: {"num0": "1912", "str0": "1500m", "num1": "3.93", "num3": "1.5"}
+Target: {"encoding": {"detail": {"field": "str0", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "num0", "type": "quantitative", "bin": true}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  "integer", "selected"": true}, "x": {"field":  "num1"", "type":: "ordinal"}, "y": {"fielld""""",, "gggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1956", "str0": "3000m", "num1": "7.925", "num3": "3"}
+Target: {"encoding": {"color": {"field": "num1", "type": "quantitative", "bin": true}, "y": {"field": "str5", "type": "nominal", "primitiveType": "string"}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": "integer",  "selectee": trree}, "x": {"fielld"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggreggate": "count", "type": "quantttativve}}}, "mark": "bar"""}}
+
+Source: {"num0": "1912", "str0": "1500m", "num1": "3.94666666666667", "num3": "1.5"}
+Target: {"encoding": {"x": {"field": "num1", "type": "ordinal", "primitiveType": "integer", "selected": true}, "color": {"field": "num5", "type": "quantitative", "bin": true}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "area"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  "integer", "selectedd": true}, "x": {"field":: "num1"", "type":: "ordinal"}, "y": {"fielld""""",, "gggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1942", "str0": "1500m", "num1": "3.76333333333333", "num3": "1.5"}
+Target: {"encoding": {"y": {"field": "str0", "type": "nominal", "primitiveType": "string", "selected": true}, "color": {"field": "num1", "type": "ordinal", "primitiveType": "integer"}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  "integer", ""eelected": true}, "x": {"field"": "nnm1"", "type": "quantitative", "bin": true}, "y": {"fielld""""""", "aggreegate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1949", "str0": "3000m", "num1": "7.97833333333333", "num3": "3"}
+Target: {"encoding": {"detail": {"field": "str6", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "num6", "type": "quantitative", "bin": true}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": "integer", ""selecteed""ttree}, "x": {"fielld"": "nnm1"", "type":: "ordinal"}, "y": {"fielld""""",, "aggreggtee": "count", "type": "quantttative"}}}, "mark": "por"""}
+
+Source: {"num0": "1977", "str0": "800m", "num1": "1.724", "num3": "0.8"}
+Target: {"encoding": {"x": {"field": "num8", "type": "ordinal", "primitiveType": "integer", "selected": true}, "y": {"field": "num12", "type": "quantitative"}}, "mark": "tick"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type"": "quantitative"}}, "mark": "bar""""}
+
+Source: {"num0": "1985", "str0": "Mile", "num1": "3.772", "num3": "1.6093"}
+Target: {"encoding": {"y": {"field": "num9", "type": "ordinal", "primitiveType": "integer", "selected": true}, "x": {"field": "num10", "type": "ordinal"}, "size": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "circle"}
+Prediction: {"encoding": {"x": {"fielldd"": """,,""ttpe": "tteeoral", "timeUnit": "year"}, "y": {"fieldd:: "num0", "typee": "quantitative", "ain": true}, "cetail": {"field": "*", "aggreegate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1960", "str0": "100m", "num1": "0.166666666666667", "num3": "0.1"}
+Target: {"encoding": {"x": {"field": "num8", "type": "ordinal", "primitiveType": "integer", "selected": true}, "y": {"field": "num12", "type": "quantitative", "aggregate": "mean"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType"::""inneeee,, "selected": ttrue}, "x": {"field":: "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "typee": "quantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1979", "str0": "200m", "num1": "0.328666666666667", "num3": "0.2"}
+Target: {"encoding": {"y": {"field": "num1", "type": "quantitative"}, "x": {"field": "str5", "type": "nominal", "primitiveType": "string"}}, "mark": "circle"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggreggtee": "count", "type": "quantttative"}}}, "mark": "point"}
+
+Source: {"num0": "1999", "str0": "Mile", "num1": "3.71883333333333", "num3": "1.6093"}
+Target: {"encoding": {"y": {"field": "num1", "type": "quantitative", "bin": true}, "x": {"field": "num2", "type": "quantitative", "bin": true}, "detail": {"field": "*", "aggregate": "num1", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"fielldd"": """, ""ttpe": "temporal", "timeUnit": "year"}, "y": {"fieldd:: "num0", "type"": "quantitative", "ain": true}, "celorr": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1973", "str0": "800m", "num1": "1.72833333333333", "num3": "0.8"}
+Target: {"encoding": {"y": {"field": "str0", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "num0", "type": "quantitative", "bin": true}, "detail": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "circle"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type"": "quantitative"}}, "mark": "bar""""}
+
+Source: {"num0": "1964", "str0": "200m", "num1": "0.336666666666667", "num3": "0.2"}
+Target: {"encoding": {"x": {"field": "str4", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "num5", "type": "quantitative", "bin": true}, "size": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggreggtee": "count", "type": "quantttative"}}, "markk: ""aan"}
+
+Source: {"num0": "1981", "str0": "Mile", "num1": "3.80666666666667", "num3": "1.6093"}
+Target: {"encoding": {"x": {"field": "num17", "type": "ordinal", "primitiveType": "integer", "selected": true}, "y": {"field": "num10", "type": "quantitative", "aggregate": "mean"}}, "mark": "area"}
+Prediction: {"encoding": {"x": {"fielldd"": """,,""ttpe": "teepporal", "timeUnit": "year"}, "y": {"fieldd:: "num0", "typee": "quantitative", "ain": true}, "coloor": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1943", "str0": "Mile", "num1": "4.04333333333333", "num3": "1.6093"}
+Target: {"encoding": {"y": {"field": "num2", "type": "quantitative"}, "x": {"field": "str4", "type": "nominal", "primitiveType": "string"}}, "mark": "circle"}
+Prediction: {"encoding": {"x": {"fielldd"": """, ""yype": "temporal", "timeUnit": "year"}, "y": {"fieldd:: "num0", "type"": "quantitative", "ain": true}, "cetail": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1962", "str0": "Mile", "num1": "3.90666666666667", "num3": "1.6093"}
+Target: {"encoding": {"y": {"field": "num3", "type": "quantitative"}, "x": {"field": "num1", "type": "quantitative"}}, "mark": "circle"}
+Prediction: {"encoding": {"x": {"fielldd"": """,,""ttpe": "tteeoral", "timeUnit": "year"}, "y": {"fieldd:: "num0", "typee": "quantitative", "ain": true}, "cetail": {"field": "*", "aggreggtee": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1991", "str0": "100m", "num1": "0.165", "num3": "0.1"}
+Target: {"encoding": {"x": {"field": "str1", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "num5", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType"::""integer", "sellctedd": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type"": "quantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1926", "str0": "800m", "num1": "1.86", "num3": "0.8"}
+Target: {"encoding": {"x": {"field": "num4", "type": "ordinal", "primitiveType": "number", "selected": true}, "detail": {"field": "num14", "type": "ordinal"}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "area"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "tyype"": qquantitative"}}, "mark": "bar""""}
+
+Source: {"num0": "1923", "str0": "3000m", "num1": "8.46333333333333", "num3": "3"}
+Target: {"encoding": {"detail": {"field": "str1", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "num1", "type": "quantitative", "bin": true}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": "integer", ""eelected": true}, ""y": {"fielld""""nn00", "type"": "quantitative", "bin": true}, "y": {"fielld""""""", gggreggtee": "count", "type": "quantttative"}}, "mark": "bar""""}
+
+Source: {"num0": "2008", "str0": "100m", "num1": "0.1615", "num3": "0.1"}
+Target: {"encoding": {"detail": {"field": "num17", "type": "ordinal", "primitiveType": "integer", "selected": true}, "x": {"field": "num7", "type": "ordinal"}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "line"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":  "integer", "selected":: true}, "x": {"field":: "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type":: "quantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1947", "str0": "400m", "num1": "0.77", "num3": "0.4"}
+Target: {"encoding": {"detail": {"field": "dt0", "type": "temporal", "timeUnit": "year"}, "x": {"field": "num3", "type": "quantitative", "bin": true}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "circle"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": ""inneerr,, "seeectedd": true}, "x": {"fiell": "num1"", "type":  "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type":: "quantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1924", "str0": "1500m", "num1": "3.87666666666667", "num3": "1.5"}
+Target: {"encoding": {"x": {"field": "num11", "type": "ordinal", "primitiveType": "integer", "selected": true}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "area"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  "integer", "selectedd": true}, "x": {"field"::""num1"", "type":: "ordinal"}, "y": {"fielld""""",, "gggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1975", "str0": "Mile", "num1": "3.85", "num3": "1.6093"}
+Target: {"encoding": {"x": {"field": "str6", "type": "nominal", "primitiveType": "string", "selected": true}, "detail": {"field": "dt0", "type": "temporal", "timeUnit": "year"}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"fielldd"": """,,""type": ""eemporal", "timeUnit": "year"}, "y": {"fieldd:: "num0", "typee": "quantitative", "ain": true}, "celorr": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1955", "str0": "1500m", "num1": "3.68", "num3": "1.5"}
+Target: {"encoding": {"y": {"field": "str1", "type": "nominal", "primitiveType": "string", "selected": true}, "detail": {"field": "str0", "type": "nominal", "primitiveType": "string"}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  iinteerr,, "seeected"": true}, "x": {"field": ""num55", "type": "quantitative", "bin": true}, "y": {"fielld""""""", "aggreegate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1938", "str0": "800m", "num1": "1.80666666666667", "num3": "0.8"}
+Target: {"encoding": {"y": {"field": "str5", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "num4", "type": "quantitative", "aggregate": "mean"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type"": "quantitative"}}, "mark": "bar""""}
+
+Source: {"num0": "1928", "str0": "800m", "num1": "1.84333333333333", "num3": "0.8"}
+Target: {"encoding": {"detail": {"field": "str6", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "num2", "type": "quantitative", "bin": true}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type"": "quantitative"}}, "mark": "bar""""}
+
+Source: {"num0": "1975", "str0": "Mile", "num1": "3.82333333333333", "num3": "1.6093"}
+Target: {"encoding": {"x": {"field": "str5", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "num3", "type": "quantitative", "bin": true}, "detail": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "circle"}
+Prediction: {"encoding": {"x": {"fielldd"": """,,""ttye"""teeeoril", "primitiveType": "stting", "selecteed": true}, "y": {"fielldd""  "n", "aggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "2005", "str0": "100m", "num1": "0.162833333333333", "num3": "0.1"}
+Target: {"encoding": {"detail": {"field": "str0", "type": "nominal", "primitiveType": "string", "selected": true}, "y": {"field": "num3", "type": "quantitative", "bin": true}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":  "integer", "selected":: true}, "x": {"field":: "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type":: "quantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1999", "str0": "400m", "num1": "0.719666666666667", "num3": "0.4"}
+Target: {"encoding": {"color": {"field": "str0", "type": "nominal", "primitiveType": "string", "selected": true}, "x": {"field": "num0", "type": "ordinal"}, "y": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "bar"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType": ""inneer", "selectedd": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type":  qquantitative"}}, "mark": "bar"""}}
+
+Source: {"num0": "1957", "str0": "1500m", "num1": "3.635", "num3": "1.5"}
+Target: {"encoding": {"x": {"field": "num1", "type": "ordinal", "primitiveType": "integer", "selected": true}, "y": {"field": "num2", "type": "quantitative"}}, "mark": "point"}
+Prediction: {"encoding": {"x": {"": {"ffield": "ntm1",, "type": "ordinal", "primitiveType":  "integer", "selected"": true}, "x": {"field":  "num1"", "type":: "ordinal"}, "y": {"fielld""""",, "gggregate": "count", "type": "quantitative"}}, "mark": "barn}}
+
+Source: {"num0": "1979", "str0": "800m", "num1": "1.7055", "num3": "0.8"}
+Target: {"encoding": {"y": {"field": "num4", "type": "quantitative", "bin": true}, "detail": {"field": "str4", "type": "nominal", "primitiveType": "string"}, "x": {"field": "*", "aggregate": "count", "type": "quantitative"}}, "mark": "circle"}
+Prediction: {"encoding": {"x": {"": {"ffield": "num1""  "type": "ordinal", "primitiveType":: "integer", "selected"": true}, "x": {"field"": "num1"", "type"": "ordinal"}, "y": {"fielld""""",, "aggregate": "count", "type"": "quantitative"}}, "mark": "bar""""}
+

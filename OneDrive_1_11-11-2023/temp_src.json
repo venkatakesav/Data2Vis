@@ -1,0 +1,579 @@
+[
+    {
+        "str0": "H4PA10062",
+        "str1": "TROIANO, NICHOLAS ROBERT",
+        "str2": "C",
+        "num0": 3,
+        "str3": "IND",
+        "num1": 0,
+        "num2": "0",
+        "num3": 3369.16,
+        "num4": 0,
+        "num5": 3369.16,
+        "num6": 0,
+        "num7": 0,
+        "num8": 0,
+        "num9": "0",
+        "num10": 0,
+        "num11": 0,
+        "num12": 0,
+        "num13": 0,
+        "str4": "PA",
+        "num14": 10,
+        "num15": "0",
+        "num16": 0,
+        "dt0": "01/08/2015",
+        "num17": 0,
+        "num18": "0"
+    }
+]
+[
+    {
+        "str0": "H4IL11195",
+        "str1": "SENGER, DARLENE",
+        "str2": "C",
+        "num0": 2,
+        "str3": "REP",
+        "num1": 0,
+        "num2": "0",
+        "num3": 4457.42,
+        "num4": 0,
+        "num5": 4457.42,
+        "num6": 0,
+        "num7": 0,
+        "num8": 0,
+        "num9": "0",
+        "num10": 1000,
+        "num11": 0,
+        "num12": 0,
+        "num13": 0,
+        "str4": "IL",
+        "num14": 11,
+        "num15": "0",
+        "num16": 0,
+        "dt0": "01/27/2015",
+        "num17": 0,
+        "num18": "0"
+    }
+]
+[
+    {
+        "str0": "TETERBORO AIRPORT",
+        "str1": "CITATION X",
+        "str2": "None",
+        "dt0": "10/20/99 0:00",
+        "str3": "EXECUTIVE JET AVIATION",
+        "str4": "New Jersey",
+        "str5": "Approach",
+        "str6": "Small",
+        "str7": "Barn owl",
+        "str8": "Night",
+        "num0": 0,
+        "num1": 0,
+        "num2": 0,
+        "num3": null
+    }
+]
+[
+    {
+        "str0": "S2AZ00265",
+        "str1": "RUBEN, DAVID A",
+        "str2": "O",
+        "num0": 1,
+        "str3": "DEM",
+        "num1": 0,
+        "num2": "0",
+        "num3": 0,
+        "num4": 0,
+        "num5": 0,
+        "num6": 0,
+        "num7": 0,
+        "num8": 0,
+        "num9": "0",
+        "num10": 0,
+        "num11": 0,
+        "num12": 245,
+        "num13": 0,
+        "str4": "AZ",
+        "num14": 0,
+        "num15": "0",
+        "num16": 0,
+        "dt0": "12/31/2015",
+        "num17": 0,
+        "num18": "0"
+    }
+]
+[
+    {
+        "str0": "Streptococcus viridans",
+        "num0": 0.005,
+        "num1": 10,
+        "num2": 40,
+        "str1": "positive",
+        "str2": "Streptococcus"
+    }
+]
+[
+    {
+        "str0": "oldsmobile omega brougham",
+        "num0": 26.8,
+        "num1": 6,
+        "num2": 173,
+        "num3": 115,
+        "num4": 2700,
+        "num5": 12.9,
+        "dt0": "1979-01-01",
+        "str1": "USA"
+    }
+]
+[
+    {
+        "str0": "dodge dart custom",
+        "num0": 15,
+        "num1": 8,
+        "num2": 318,
+        "num3": 150,
+        "num4": 3399,
+        "num5": 11,
+        "dt0": "1973-01-01",
+        "str1": "USA"
+    }
+]
+[
+    {
+        "str0": "H4CO02094",
+        "str1": "LEING, GEORGE",
+        "str2": "C",
+        "num0": 2,
+        "str3": "REP",
+        "num1": 0,
+        "num2": "0",
+        "num3": 0,
+        "num4": 0,
+        "num5": 0,
+        "num6": 0,
+        "num7": 0,
+        "num8": 0,
+        "num9": "0",
+        "num10": 0,
+        "num11": 0,
+        "num12": 0,
+        "num13": 0,
+        "str4": "CO",
+        "num14": 2,
+        "num15": "0",
+        "num16": 0,
+        "dt0": "01/31/2015",
+        "num17": 0,
+        "num18": "0"
+    }
+]
+[
+    {
+        "str0": "H8CO06138",
+        "str1": "COFFMAN, MIKE REP.",
+        "str2": "I",
+        "num0": 2,
+        "str3": "REP",
+        "num1": 0,
+        "num2": "0",
+        "num3": 10710.85,
+        "num4": 10672.24,
+        "num5": 10710.85,
+        "num6": 0,
+        "num7": 0,
+        "num8": 0,
+        "num9": "0",
+        "num10": 0,
+        "num11": 0,
+        "num12": 0,
+        "num13": 0,
+        "str4": "CO",
+        "num14": 6,
+        "num15": "0",
+        "num16": 0,
+        "dt0": "01/30/2015",
+        "num17": 0,
+        "num18": "0"
+    }
+]
+[
+    {
+        "str0": "S2DE00064",
+        "str1": "WADE, KEVIN L",
+        "str2": "C",
+        "num0": 2,
+        "str3": "REP",
+        "num1": 31800,
+        "num2": "0",
+        "num3": 33535,
+        "num4": 0,
+        "num5": 1735,
+        "num6": 0,
+        "num7": 0,
+        "num8": 31800,
+        "num9": "0",
+        "num10": 0,
+        "num11": 0,
+        "num12": 41800,
+        "num13": 0,
+        "str4": "DE",
+        "num14": 0,
+        "num15": "0",
+        "num16": 0,
+        "dt0": "01/26/2015",
+        "num17": 0,
+        "num18": "0"
+    }
+]
+[
+    {
+        "num0": 1880,
+        "num1": 45,
+        "num2": 2,
+        "num3": 1003711
+    }
+]
+[
+    {
+        "num0": 4.7,
+        "num1": 3.2,
+        "num2": 1.6,
+        "num3": 0.2,
+        "str0": "setosa"
+    }
+]
+[
+    {
+        "num0": 1920,
+        "num1": 25,
+        "num2": 1,
+        "num3": 4565066
+    }
+]
+[
+    {
+        "str0": "LOUISVILLE INTL ARPT",
+        "str1": "B-727",
+        "str2": "None",
+        "dt0": "9/13/90 0:00",
+        "str3": "UPS AIRLINES",
+        "str4": "Kentucky",
+        "str5": "Climb",
+        "str6": "Medium",
+        "str7": "Unknown bird - medium",
+        "str8": "Night",
+        "num0": 0,
+        "num1": 0,
+        "num2": 0,
+        "num3": 230
+    }
+]
+[
+    {
+        "str0": "plymouth 'cuda 340",
+        "num0": 14,
+        "num1": 8,
+        "num2": 340,
+        "num3": 160,
+        "num4": 3609,
+        "num5": 8,
+        "dt0": "1970-01-01",
+        "str1": "USA"
+    }
+]
+[
+    {
+        "str0": "DALLAS/FORT WORTH INTL ARPT",
+        "str1": "ATR-72",
+        "str2": "None",
+        "dt0": "8/5/97 0:00",
+        "str3": "AMERICAN EAGLE AIRLINES",
+        "str4": "Texas",
+        "str5": "Climb",
+        "str6": "Medium",
+        "str7": "Unknown bird - medium",
+        "str8": "Day",
+        "num0": 0,
+        "num1": 0,
+        "num2": 0,
+        "num3": null
+    }
+]
+[
+    {
+        "str0": "H4GA11053",
+        "str1": "BARR, BOB",
+        "str2": "O",
+        "num0": 2,
+        "str3": "REP",
+        "num1": 2600,
+        "num2": "0",
+        "num3": 3407.53,
+        "num4": 0,
+        "num5": 807.53,
+        "num6": 0,
+        "num7": 0,
+        "num8": 0,
+        "num9": "0",
+        "num10": 476.03,
+        "num11": 0,
+        "num12": 0,
+        "num13": 2600,
+        "str4": "GA",
+        "num14": 11,
+        "num15": "0",
+        "num16": 0,
+        "dt0": "01/28/2015",
+        "num17": 0,
+        "num18": "0"
+    }
+]
+[
+    {
+        "str0": "ATLANTIC CITY INTL",
+        "str1": "B-737-200",
+        "str2": "None",
+        "dt0": "11/7/97 0:00",
+        "str3": "ATLANTIC SOUTHEAST",
+        "str4": "New Jersey",
+        "str5": "Take-off run",
+        "str6": "Medium",
+        "str7": "Ring-billed gull",
+        "str8": "Dawn",
+        "num0": 0,
+        "num1": 0,
+        "num2": 0,
+        "num3": null
+    }
+]
+[
+    {
+        "str0": "H4WA03114",
+        "str1": "DINGETHAL, BOB",
+        "str2": "C",
+        "num0": 1,
+        "str3": "DEM",
+        "num1": 0,
+        "num2": "0",
+        "num3": 0,
+        "num4": 0,
+        "num5": 0,
+        "num6": 0,
+        "num7": 0,
+        "num8": 0,
+        "num9": "0",
+        "num10": 0,
+        "num11": 0,
+        "num12": 0,
+        "num13": 0,
+        "str4": "WA",
+        "num14": 3,
+        "num15": "0",
+        "num16": 0,
+        "dt0": "01/31/2015",
+        "num17": 0,
+        "num18": "0"
+    }
+]
+[
+    {
+        "str0": "Mycobacterium tuberculosis",
+        "num0": 800,
+        "num1": 5,
+        "num2": 2,
+        "str1": "negative",
+        "str2": "other"
+    }
+]
+[
+    {
+        "dt0": "1854-06-01",
+        "num0": 0,
+        "num1": 40,
+        "num2": 95
+    }
+]
+[
+    {
+        "str0": "Fatal Attraction",
+        "num0": 156645693,
+        "num1": 320100000,
+        "num2": null,
+        "num3": 14000000,
+        "dt0": "18-Sep-87",
+        "str1": null,
+        "num4": null,
+        "str2": "Paramount Pictures",
+        "str3": "Original Screenplay",
+        "str4": "Thriller/Suspense",
+        "str5": "Contemporary Fiction",
+        "str6": "Adrian Lyne",
+        "num5": 81,
+        "num6": 6.8,
+        "num7": 22328
+    }
+]
+[
+    {
+        "str0": "H2NY22121",
+        "str1": "DANKS BURKE, LESLIE",
+        "str2": "O",
+        "num0": 1,
+        "str3": "DEM",
+        "num1": 0,
+        "num2": "0",
+        "num3": 0,
+        "num4": 0,
+        "num5": 28.84,
+        "num6": 28.84,
+        "num7": 0,
+        "num8": 0,
+        "num9": "0",
+        "num10": 0,
+        "num11": 0,
+        "num12": 70200,
+        "num13": 0,
+        "str4": "NY",
+        "num14": 23,
+        "num15": "0",
+        "num16": 0,
+        "dt0": "09/30/2015",
+        "num17": 0,
+        "num18": "0"
+    }
+]
+[
+    {
+        "str0": "Proteus vulgaris",
+        "num0": 3,
+        "num1": 0.1,
+        "num2": 0.1,
+        "str1": "negative",
+        "str2": "other"
+    }
+]
+[
+    {
+        "str0": "Minority Report",
+        "num0": 132024714,
+        "num1": 358824714,
+        "num2": null,
+        "num3": 102000000,
+        "dt0": "21-Jun-02",
+        "str1": "PG-13",
+        "num4": 145,
+        "str2": "20th Century Fox",
+        "str3": "Based on Book/Short Story",
+        "str4": "Action",
+        "str5": "Science Fiction",
+        "str6": "Steven Spielberg",
+        "num5": 91,
+        "num6": 7.7,
+        "num7": 135142
+    }
+]
+[
+    {
+        "str0": "O Brother, Where Art Thou",
+        "num0": 45506619,
+        "num1": 65976782,
+        "num2": null,
+        "num3": 26000000,
+        "dt0": "22-Dec-00",
+        "str1": "PG-13",
+        "num4": 102,
+        "str2": "Walt Disney Pictures",
+        "str3": "Traditional/Legend/Fairytale",
+        "str4": "Comedy",
+        "str5": "Historical Fiction",
+        "str6": "Joel Coen",
+        "num5": null,
+        "num6": null,
+        "num7": null
+    }
+]
+[
+    {
+        "str0": "WASHINGTON DULLES INTL ARPT",
+        "str1": "A-319",
+        "str2": "None",
+        "dt0": "7/10/00 0:00",
+        "str3": "UNITED AIRLINES",
+        "str4": "DC",
+        "str5": "Landing Roll",
+        "str6": "Medium",
+        "str7": "Unknown bird - medium",
+        "str8": "Day",
+        "num0": 0,
+        "num1": 0,
+        "num2": 0,
+        "num3": 140
+    }
+]
+[
+    {
+        "str0": "S2AZ00265",
+        "str1": "RUBEN, DAVID A",
+        "str2": "O",
+        "num0": 1,
+        "str3": "DEM",
+        "num1": 0,
+        "num2": "0",
+        "num3": 0,
+        "num4": 0,
+        "num5": 0,
+        "num6": 0,
+        "num7": 0,
+        "num8": 0,
+        "num9": "0",
+        "num10": 0,
+        "num11": 0,
+        "num12": 245,
+        "num13": 0,
+        "str4": "AZ",
+        "num14": 0,
+        "num15": "0",
+        "num16": 0,
+        "dt0": "12/31/2015",
+        "num17": 0,
+        "num18": "0"
+    }
+]
+[
+    {
+        "str0": "H4CA21072",
+        "str1": "RENTERIA, AMANDA",
+        "str2": "C",
+        "num0": 1,
+        "str3": "DEM",
+        "num1": 1901.71,
+        "num2": "0",
+        "num3": 36451.26,
+        "num4": 0,
+        "num5": 34549.55,
+        "num6": 0,
+        "num7": 1000,
+        "num8": 0,
+        "num9": "0",
+        "num10": 0,
+        "num11": 0,
+        "num12": 0,
+        "num13": 155,
+        "str4": "CA",
+        "num14": 21,
+        "num15": "0",
+        "num16": 0,
+        "dt0": "01/31/2015",
+        "num17": 0,
+        "num18": "0"
+    }
+]
+[
+    {
+        "num0": 1870,
+        "num1": 50,
+        "num2": 2,
+        "num3": 637801
+    }
+]

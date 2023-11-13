@@ -1,0 +1,59 @@
+[
+{
+    "encoding": {
+        "color": {
+            "field": "str3",
+            "type": "nominal",
+            "primitiveType": "string",
+            "selected": true
+        },
+        "x": {
+            "field": "num5",
+            "type": "quantitative",
+            "bin": true
+        },
+        "y": {
+            "field": "*",
+            "aggregate": "count",
+            "type": "quantitative"
+        }
+    },
+    "mark": "point"
+},
+{
+    "encoding": {
+        "y": {
+            "field": "str4",
+            "type": "nominal",
+            "primitiveType": "string",
+            "selected": true
+        },
+        "x": {
+            "field": "num7",
+            "type": "ordinal"
+        },
+        "detail": {
+            "field": "*",
+            "aggregate": "count",
+            "type": "quantitative"
+        }
+    },
+    "mark": "point"
+},
+{
+    "encoding": {
+        "y": {
+            "field": "str2",
+            "type": "nominal",
+            "primitiveType": "string",
+            "selected": true
+        },
+        "x": {
+            "field": "*",
+            "aggregate": "count",
+            "type": "quantitative"
+        }
+    },
+    "mark": "bar"
+}
+]

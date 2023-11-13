@@ -1,0 +1,15 @@
+Encoder: Encoder(
+  (embedding): Embedding(88, 512)
+  (drop): Dropout(p=0.5, inplace=False)
+  (encoder): LSTM(512, 512, num_layers=2, batch_first=True, dropout=0.5, bidirectional=True)
+)
+
+Decoder: Decoder(
+  (embedding): Embedding(46, 512)
+  (drop): Dropout(p=0.5, inplace=False)
+  (dec_cells): ModuleList(
+    (0): LSTMCell(1536, 512)
+    (1): LSTMCell(512, 512)
+  )
+  (linear): Linear(in_features=512, out_features=46, bias=True)
+)
